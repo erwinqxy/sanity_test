@@ -1,3 +1,6 @@
+# Sanity Test 
+This project serves as a repository for me to test out differenet ideas/implementation on a Sanity project.
+
 # Sanity Blogging Content Studio
 
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
